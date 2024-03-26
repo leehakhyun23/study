@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\user\Desktop\RealStudy\.metadata\.plugins\org.eclipse.jdt.core
+929435327.index
+1865797976.index
+3586380334.index
