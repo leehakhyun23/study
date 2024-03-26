@@ -8,7 +8,6 @@ public class Baek2525 {
 		int hour = sc.nextInt();
 		int minute = sc.nextInt();
 		int time = sc.nextInt();
-		sc.close();
 		int finish = minute + time;
 		if(finish >= 60) {
 			hour = hour + finish/60; 
